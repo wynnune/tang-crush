@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Ai gảnkkkkkk má :3',
     question:'Do you know I love you so muchhhh <3????',
     btnReply: 'Gửi cho Wynnu <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Anh cũng yêu pé nhìu nhắm <33333333',
     mess: 'I miss youuuuu 😘😘',
     messDesc: 'Mai tui muốn uống tà tữaaaaa.',
     btnAccept: 'Okiiiii lun <3',
